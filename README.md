@@ -1,3 +1,35 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-User_Panel_Study-DB61A2?style=flat-square&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric User Panel Study" />
+ <img src="https://img.shields.io/badge/Managing-Actions,_Automation,_and_Operational_Workflows-DB61A2?style=flat-square&logo=microsoftfabric&logoColor=white" alt="Managing Actions, Automation, and Operational Workflows" />
+</p>
+
+<p align="center">
+  <img
+    src="./media/fabric-user-panel-invitation.png"
+    alt="Invitation to apply for the Microsoft Fabric User Panel"
+    width="800"
+  />
+</p>
+
+
+<h1 align="center">Microsoft Fabric User Panel</h1>
+
+<p align="center">
+  <em>Managing Actions, Automation, and Operational Workflows</em>
+</p>
+
+<p align="center">
+  This opportunity offers a valuable perspective on how organizations orchestrate data platforms, business applications, automation, and AI to build resilient operational workflows and make informed decisions.
+</p>
+
+---
+
+
+
+
+
+
 <p align="center">
   <img src="./media/Fabric.svg" />
 </p>
